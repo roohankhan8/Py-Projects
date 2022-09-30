@@ -1,7 +1,7 @@
 import random
 
 num = random.randint(0, 20)
-guess = int(input('Guess The Number Between 0 to 10: '))
+guess = int(input('Guess The Number Between 0 to 20: '))
 guesses = 0
 
 while guess!=num:
@@ -9,7 +9,7 @@ while guess!=num:
         print('Higher')
     elif guess>num:
         print('Lower')
-    guess = int(input('Guess The Number Between 0 to 10: '))
+    guess = int(input('Guess The Number Between 0 to 20: '))
     guesses+=1
 else:
     print('Perfect')
