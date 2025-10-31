@@ -14,4 +14,3 @@ dictionary = {
 # print(dictionary['noun'])
 print(dictionary[word])
 # print(word)
-print('Hello')
