@@ -11,7 +11,4 @@ dictionary = {
     'verb': 'a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.',
     'adjective': 'a word naming an attribute of a noun, such as sweet, red, or technical'
 }
-# print(dictionary['noun'])
 print(dictionary[word])
-# print(word)
-print('Hello')
