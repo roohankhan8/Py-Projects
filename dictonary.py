@@ -12,3 +12,4 @@ dictionary = {
     'adjective': 'a word naming an attribute of a noun, such as sweet, red, or technical'
 }
 print(dictionary[word])
+print("GITHUB")
